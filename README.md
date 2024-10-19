@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/09f000b1-c228-4916-8078-0217c2d87c9d)# HGT-Project
+# HGT-Project
 This repository contains script for the HGT project.
 
 The HGT_pipeline.R include analysis as following:
